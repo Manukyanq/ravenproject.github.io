@@ -9,7 +9,7 @@ permalink: /community/
 <div class="page-content">
   <div class="wrapper text-center">
     <h2>Get involved with the Ravencoin community today!</h2>
-    <p>We have a number of active and growing communities for you to choose from:</p>
+    <p>We have a number of active and growing communities for you to choose from:</p>asddasda
     <div class="flex flex-wrap pt-16 pb-32 m-auto" style="max-width: 800px;">
       <div class="w-1/2 sm:w-1/4 mb-8">
         <a href="https://bitcointalk.org/index.php?topic=3238497" target="_blank">
